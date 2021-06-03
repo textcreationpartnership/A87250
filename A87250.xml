@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The independents declaration and remonstrance to the Parliament of England declaring their full resolution and intentions touching the Kings Majesty, and the treaty; and their protestation to both Houses, concerning their proceedings in the said treaty, and concluding of a peace with the King. Also, their proposals to the House of Commons, touching the trust reposed in them by the people of England, shewing, that if they act against the truth reposed in them, the people are bound in conscience and duty to act against them. Whereunto is annexed, His Majesties new propositions read in both Houses yesterday; and a joyfull message sent to the citizens of London. with His Majesties proposals touching the army, and the Independent party.</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87250</idno><idno type="EEBO-CITATION">99864742</idno>
+  <idno type="VID">116974</idno>
+  <idno type="EEBO-PROQUEST">2248538753</idno>
+  
+            <idno type="STC">Wing I147</idno>
+            <idno type="STC">Thomason E468_13</idno>
+            <idno type="STC">ESTC R205334</idno>
+            <idno type="PROQUEST">99864742</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99864742e"/>
+            <note>(EEBO-TCP ; phase 2, no. A87250)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116974)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 75:E468[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The independents declaration and remonstrance to the Parliament of England declaring their full resolution and intentions touching the Kings Majesty, and the treaty; and their protestation to both Houses, concerning their proceedings in the said treaty, and concluding of a peace with the King. Also, their proposals to the House of Commons, touching the trust reposed in them by the people of England, shewing, that if they act against the truth reposed in them, the people are bound in conscience and duty to act against them. Whereunto is annexed, His Majesties new propositions read in both Houses yesterday; and a joyfull message sent to the citizens of London. with His Majesties proposals touching the army, and the Independent party.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>for Nathaniell Gibson,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "8ber [i.e. October] ye 18th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term type="corporate_name">England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116974:1"/>
+            <pb facs="tcp:116974:1"/>
+            <p>THE <gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ndependents Declaration AND REMONSTRANCE To the <hi>PARLIAMENT</hi> of ENGLAND <hi>DECLARING</hi> Their full Resolution and Intentions touching the Kings Majesty, and the Treaty; And their Protestation to both Houses, concerning their proceedings in the said Treaty, and concluding of a Peace with the <hi>KING.</hi> ALSO, <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>eir Proposals to the House of Commons, touching the trust reposed in them by the People of <hi>England,</hi> shewing, that if they act against the truth reposed in them, the People are bound in conscience and duty to act against them. <hi>Whereunto is annexed,</hi> His Majesties new <hi>Propositions</hi> read in both Houses yesterday; and a joyfull Message sent to the Citizens of <hi>London.</hi> With His Majesties <hi>Proposals</hi> touching the <hi>Army,</hi> and the <hi>Independent Party.</hi>
+            </p>
+            <p>Imprinted at <hi>London</hi> for <hi>Nathaniell Gibson,</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:116974:2"/>
+            <pb n="1" facs="tcp:116974:2"/>
+            <div type="declaration">
+               <head>A Joyfull MESSAGE FROM THE ARMY To the Citizens of <hi>London;</hi> declaring their resoluti<g ref="char:EOLhyphen"/>ons and intentions concerning the Kings Majesty, and the <hi>Treaty,</hi> &amp;c.</head>
+               <opener>
+                  <salute>Gentlemen, and Fellow-Commoners,</salute>
+               </opener>
+               <p>VVHereas, there are divers false sugge<g ref="char:EOLhyphen"/>stions and charges laid upon the army by the adverse party in &amp; about the city of <hi>London,</hi> meerly to blast their candid intentions, and to make them odious in the sight of all men, by
+<pb n="2" facs="tcp:116974:3"/> branding them with the Badge of <hi>Disloyalty;</hi> saying <hi>They would trample down Government, and reign them<g ref="char:EOLhyphen"/>selves as Kings;</hi> but I can assure you, their hearts are of known integrity and faithfulnesse, both towards <hi>King, City, and Country,</hi> and are resolved to see the <hi>King</hi> invested, the <hi>Kingdom</hi> setled, and the Liberties &amp; Fran<g ref="char:EOLhyphen"/>chises of the City of <hi>London</hi> firmly preserved and maintained, without any violation whatsoever; and as a testim<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>y of their fidelity, have declared that they will use their utmost endeavours for the composing of all differences, and inthroning of the <hi>King</hi> in his Royal Throne at <hi>Westminster,</hi> and unite Him with His great Councell of <hi>England,</hi> which God grant may speedily be effected. This is the sense of many in the <hi>Army,</hi> al<g ref="char:EOLhyphen"/>though divers objects against the same; especially the Northern party, and their Adherents, who have presen<g ref="char:EOLhyphen"/>ted their <hi>Remonstrance</hi> and <hi>Desires</hi> to both Houses, as followeth.</p>
+               <p>Humbly desiring, That Justice may be impartially and speedily executed upon the grand Delinquents of the <hi>Kingdomes,</hi> especially such as have been the onely promoters of this last Rebellion, who are traytors by the Law of the Land, and oug<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t to be made exemplary without partiality, there being no exception therein to excuse any particular person (though the highest and greatest Incendiary and Delinquent) from Justice, who have confessed themselves guilty of all the bloud, ra<g ref="char:EOLhyphen"/>pine, murther, &amp; almost utter ruine of these three poor dying, and last gasping <hi>Kingdoms,</hi> with whom a Treaty must be had when they are twice conquered, and when God hath delivered them up into the hands of his peo<g ref="char:EOLhyphen"/>ple to the end Justice may be executed on them, and
+<pb n="3" facs="tcp:116974:3"/> their lives sacrificed as traytors to all future Genera<g ref="char:EOLhyphen"/>ion. Further remonstrating and declaring, that with unexpressible grief of heart, they find the affections of <hi>Parliament</hi> alienated from them, in slighting their just and lawfull addresses, thinking them not worthy of an answer thereunto, whereby they conceive themselves in the capacity of enemies, or not free men, which will ustly challenge the same from them, as being their Deputies and Trustees, or else petitioning for things unjust, though they know they are according to their solemn League and Covenant, and their own procee<g ref="char:EOLhyphen"/>dings and printed Declarations, upon which they inga<g ref="char:EOLhyphen"/>ged with them, and for them; and without which, we should never have drawn a sword the second time in their quarrel. And declare, that if their intentions fur<g ref="char:EOLhyphen"/>ther appear (as they have too much of late) to side with, and act for their enemies, and against the interest of them, and all the free Commons of <hi>England,</hi> in ma<g ref="char:EOLhyphen"/>king their enemies and conquered slaves to be their masters and commanders, they must look to and de<g ref="char:EOLhyphen"/>pend upon the law of nature for their preservation a<g ref="char:EOLhyphen"/>gainst those divellish and malignant principle, to which they declare themselves open enemies, and resolve to he utmost of their abilities to oppose, with the losse of lives and fortunes. Protesting, still to keep their first integrity without spot or blemish, and not bow their knee to <hi>Baal</hi> at the <hi>Kings</hi> Command, neither at the <hi>Par<g ref="char:EOLhyphen"/>iaments,</hi> and that if they act against the truth reposed in them by the people, the people are bound in consci<g ref="char:EOLhyphen"/>ence and duty to act against them, <hi>Salus populi</hi> being <hi>Suprema Lex.</hi>
+               </p>
+               <trailer>Here endeth the Remonstrance.</trailer>
+            </div>
+            <div type="propositions">
+               <pb n="4" facs="tcp:116974:4"/>
+               <head>His Majesties Message to all his loving Subiects.</head>
+               <p>THis present Treaty is conceived to be the main Object of the whole Kingdom, whose eyes are fixed thereupon, expecting the happy tydings of Peace, to be sent forth by the blessed <hi>Dove</hi> with an Olive branch in her mouth, throughout all the cor<g ref="char:EOLhyphen"/>ners of the Nation; and (in all probability) they are now ready to issue forth in streames of joy, to water the Plants of this late flourishing and fruitfull Island.</p>
+               <p>For his Majesty (upon a conference with the <hi>Dukes▪ Marquesses, Bishops, Earles, Lords,</hi> and the rest of the <hi>Commissioners</hi> on his part) hath declared his unanimous Resolution for a mutuall agreement and compliance with his two Houses of Parliament, to all things by them desired, which may tend to the peace and safety of all his liege people throughout his Realmes and Dominions.</p>
+               <p>And upon Thursday last delivered his gracious an<g ref="char:EOLhyphen"/>swer and Royall Assent to the Commissioners at the Treaty, to the paper of <hi>Ireland,</hi> in all things by them desired, which was as followeth.</p>
+               <p>That his Majesty doth condescend, That an Act of Parliament be passed, to declare and make void the Cessation of <hi>Ireland,</hi> and all treaties and conclusion of peace, or any articles thereupon with the Rebels, with<g ref="char:EOLhyphen"/>out consent of both Houses.</p>
+               <p>And that according to their Desire, He is pleased to settle the prosecution of the war in that <hi>Kingdome</hi> in his two Houses, to be managed by them: and that He is willing to assist and adhere to them therein, promi<g ref="char:EOLhyphen"/>sing upon his Royall Word to do no Act to discoun<g ref="char:EOLhyphen"/>tenance or molest them.</p>
+               <pb n="5" facs="tcp:116974:4"/>
+               <p>To the second clause therein inserted, His Majesty doth agree, That Reformation of Religion according to the Covenant be setled in that Kingdom by Act of Parliament, in such manner as both his two Houses have agreed, or shall agree upon, after consultation had with the Assembly of Divines sitting at West<g ref="char:EOLhyphen"/>minster.</p>
+               <p>To the third Clause, His Majesty giveth this An<g ref="char:EOLhyphen"/>swer, That he will give His Consent that the Deputy Governour or Governours, and the Presidents of the severall provinces of that <hi>Kingdome,</hi> be nominated by his two Houses of the Parliament of <hi>England;</hi> as also all other Officers whatsoever, being limited for twen<g ref="char:EOLhyphen"/>ty years from the 1 of <hi>July</hi> 1648.</p>
+               <p>This Answer seemed very satisfactory, and upon re<g ref="char:EOLhyphen"/>ceipt thereof the Commissioners presented a paper to his <hi>Maiesty</hi> for payment of the publique Debts of the <hi>Kingdom,</hi> which caused a large debate upon <hi>Friday;</hi> and after severall <hi>Arguments</hi> laid down by the <hi>Com<g ref="char:EOLhyphen"/>missioners</hi> on both sides, the King promised to give a fi<g ref="char:EOLhyphen"/>nall Answer the next day.</p>
+               <p>And for the rest of the Propositions, there's no doubt but a speedy concurrence will be given to them all; for the Nobility and Clergy on the Kings side have de<g ref="char:EOLhyphen"/>clared to his <hi>Majesty</hi> for peace; his <hi>Maiesty</hi> concurs with them therein, and hath promised to dispense with Episcopacy, and to settle the Directory, rather then to leave his people unsatisfied, or involve them in a fur<g ref="char:EOLhyphen"/>ther effusion, or streams of bloud.</p>
+               <p>And the <hi>Parliaments Commissioners goe hand in hand with them, promising to leave no means unattempted that may conduce to the peace and safety of all his Maiestie<gap reason="illegible" resp="#oxf" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Realms and Dominions.</hi>
+               </p>
+               <closer>
+                  <dateline>Newport <date>16. Octob. 1648.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb n="6" facs="tcp:116974:5"/>
+               <opener>
+                  <dateline>Newport <date>16. Octob. 1648.</date>
+                  </dateline>
+               </opener>
+               <p>Letters from the Isle of Wight say, That the <hi>King</hi> and the <hi>Commissioners</hi> are almost come to a finall end and agreement, his Majesty hath passed the Bill for re<g ref="char:EOLhyphen"/>calling all Honours conferred on any person by him since 1642. as the Parliament desired; and on Satur<g ref="char:EOLhyphen"/>day told the <hi>Parliaments Commissioners,</hi> That the dayes alotted for the <hi>Treaty</hi> drew towards an end, and there<g ref="char:EOLhyphen"/>fore he thought it time to present his paper of De<g ref="char:EOLhyphen"/>sires, which were three. 1 <hi>That He might come to Lon<g ref="char:EOLhyphen"/>don with Honour, freedom, and safety.</hi> 2 <hi>That He might have recompence for the yeares his Revenue hath beene kept from him.</hi> 3 <hi>That there may be an Act of Oblivion.</hi> And his Majesty saith, <hi>That He hath something to pro<g ref="char:EOLhyphen"/>pound touching the Army, and those which they call the Independent party, which will give satisfaction to both, and prevent future differences.</hi>
+               </p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:116974:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
